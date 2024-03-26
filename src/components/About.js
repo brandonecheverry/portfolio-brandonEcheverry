@@ -50,9 +50,17 @@ const About = () => {
               <p className="about-description">
                 Técnologías: JavaScript, React JS/React Native, Next
                 JS, TypeScript, Node JS, Nest JS,
-                SQL, PostgreSQL, Sequelize, MongoDB, Mongoose Git.
+                SQL, PostgreSQL, Sequelize, Git.
               </p>
             </div>
+            <h1 className="about-me">
+              <span className="about-description font-500">Educación</span>
+            </h1>
+            <p className="about-description">
+               -Estudiante de Tecnologia en Desarrollo De Software.(UTP)
+               <br />
+               -Tecnico en operaciones contables y financieras.(SENA)
+            </p>
             <hr size="8px" color="white" />
             <h2 className="about-me">
               <span className="about-description font-500">
