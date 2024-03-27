@@ -22,11 +22,11 @@ const Header = () => {
                 Portfolio
               </NavLink>
             </li>
-            <li id="contact">
+            {/* <li id="contact">
               <NavLink activeClassName="current" to="/contact">
                 Contact
               </NavLink>
-            </li>
+            </li> */}
           </ul>
         </nav>
       </div>

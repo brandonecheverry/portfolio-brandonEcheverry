@@ -78,10 +78,11 @@ const About = () => {
             <h3 className="about-me center font-500">Back-End</h3>
             <p className="about-description">
               Utilizando Express y Node, puedo crear rutas para APIs REST,
-              protegerlas e implementar bases de datos SQL y NoSQL como
-              PostgreSQL y MongoDB. De igual manera he trabajado con
+              protegerlas e implementar bases de datos SQL como
+              PostgreSQL y MySQL. De igual manera he trabajado con
               arquitecturas de software escalables y mantenibles, implementando
               módulos manteniendo separadas las distintas capas de un proyecto.
+              Tengo gran experiencia con el manejo de base de datos y solucion de problemas.
             </p>
 
             <hr />
